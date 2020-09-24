@@ -1,0 +1,7 @@
+.footer__details {
+  display: flex;
+  justify-content: space-between;
+}
+.footer__head {
+  color: blue;
+}
