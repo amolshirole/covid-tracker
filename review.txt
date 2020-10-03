@@ -1,0 +1,5 @@
+Please find below review comments.
+ code restructure 
+     - divide code in folder like map. footer, table ......
+     - do not write style in html file
+ write unit test case, use Jest framework for that   
